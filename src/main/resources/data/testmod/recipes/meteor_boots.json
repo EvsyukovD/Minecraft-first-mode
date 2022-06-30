@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "Y Y",
+    "Y Y"
+  ],
+  "key": {
+    "Y": {
+      "item": "testmod:experimental_ingot"
+    }
+  },
+  "result": {
+    "item": "testmod:meteor_boots",
+    "count": 1
+  }
+}

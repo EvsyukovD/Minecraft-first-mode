@@ -1,0 +1,19 @@
+{
+  "itemGroup.testmod_items": "Test Craft",
+  "item.testmod.meteor_staff": "Meteoritniy posoh",
+  "item.testmod.meteor_chesplate": "Meteoritniy nagrudnik",
+  "item.testmod.meteor_legins": "Meteoritnie shtani",
+  "item.testmod.meteor_boots": "Meteoritnie botinki",
+  "item.testmod.meteor_helmet": "Meteoritniy shlem",
+  "item.testmod.meteor_sword": "Meteoritniy mech",
+  "block.testmod.experimental_ore": "Meteoritnaya ruda",
+  "item.testmod.experimental_ingot": "Meteoritniy slitok",
+  "item.testmod.meteor_hoe": "Meteoritnaya motiga",
+  "item.testmod.meteor_shovel": "Meteoritnaya lopata",
+  "item.testmod.meteor_pickaxe": "Meteoritnaya kirka",
+  "item.testmod.meteor_axe": "Meteoritniy topor",
+  "item.testmod.flash_staff": "Posoh molniy",
+  "item.testmod.ghost_knight_spawn_egg": "Prizrachiy rizar",
+  "item.testmod.iron_golem_spawn_egg": "Yaico golema",
+  "item.testmod.commandant_spawn_egg": "Yaico komendanta"
+}
