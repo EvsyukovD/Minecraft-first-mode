@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: geckolib
+Implementation-Version: 3.0.32
+Specification-Vendor: Gecko
+Specification-Title: GeckoLib
+Implementation-Timestamp: 2021-04-28T21:06:12-0400
+Specification-Version: 1
+Implementation-Vendor: Gecko
+

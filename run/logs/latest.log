@@ -1,0 +1,168 @@
+[29июн2022 21:21:29.843] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20200515.085601, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 31.2.50, --version, MOD_DEV, --assetIndex, 1.15, --assetsDir, C:\Users\devsy\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[29июн2022 21:21:29.851] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.1.2+70+master.2845bb9 starting: java version 1.8.0_291 by Oracle Corporation
+[29июн2022 21:21:30.829] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29июн2022 21:21:30.901] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/devsy/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.2/1cf212283d26f706fd3074318870bebd14d2a9ed/mixin-0.8.2.jar Service=ModLauncher Env=CLIENT
+[29июн2022 21:21:33.795] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\devsy\.gradle\caches\forge_gradle\assets, --assetIndex, 1.15, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[29июн2022 21:21:39.682] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[29июн2022 21:21:59.003] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[29июн2022 21:22:00.616] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.2.50, for MC 1.15.2 with MCP 20200515.085601
+[29июн2022 21:22:00.626] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.2.50 Initialized
+[29июн2022 21:22:01.913] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity testmod:ghost_knight
+[29июн2022 21:22:01.914] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity testmod:commandant
+[29июн2022 21:22:01.944] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity geoexampleentity
+[29июн2022 21:22:01.945] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity bikeentity
+[29июн2022 21:22:08.891] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x86 successfully loaded
+[29июн2022 21:22:09.461] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[29июн2022 21:22:10.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[29июн2022 21:22:12.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 31.2.50 Target: 31.2.57
+[29июн2022 21:22:35.610] [Server-Worker-1/WARN] [net.minecraft.client.renderer.texture.AtlasTexture/]: Texture testmod:item/flash_staff with size 52x52 limits mip level from 4 to 2
+[29июн2022 21:22:39.410] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[29июн2022 21:22:39.412] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[29июн2022 21:22:41.082] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[29июн2022 21:22:41.275] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x4 minecraft:textures/atlas/signs.png-atlas
+[29июн2022 21:22:41.277] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[29июн2022 21:22:41.281] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[29июн2022 21:22:41.285] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[29июн2022 21:22:41.287] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[29июн2022 21:22:41.289] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[29июн2022 21:22:43.842] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[29июн2022 21:22:43.857] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[29июн2022 21:22:43.862] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[29июн2022 21:22:45.227] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[29июн2022 21:23:00.130] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29июн2022 21:23:00.131] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29июн2022 21:23:00.132] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29июн2022 21:23:00.133] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29июн2022 21:23:00.133] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29июн2022 21:23:01.442] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.15.2
+[29июн2022 21:23:01.443] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[29июн2022 21:23:02.502] [Server thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this SERVER instance
+[29июн2022 21:23:03.199] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.15.2-31.2.50_mapped_snapshot_20200514-1.15.1-recomp.jar, main, geckolib-forge-1.15.2-3.0.32_mapped_snapshot_20200514-1.15.1.jar
+[29июн2022 21:23:03.959] [Server-Worker-7/ERROR] [net.minecraft.client.resources.JsonReloadListener/]: Couldn't parse data file testmod:big_chest/barrack from testmod:loot_tables/big_chest/barrack.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 70 column 10 path $.pools[0].entries[7]
+	at net.minecraft.util.JSONUtils.fromJson(JSONUtils.java:368) ~[?:?]
+	at net.minecraft.util.JSONUtils.fromJson(JSONUtils.java:407) ~[?:?]
+	at net.minecraft.client.resources.JsonReloadListener.prepare(JsonReloadListener.java:51) ~[?:?]
+	at net.minecraft.client.resources.JsonReloadListener.prepare(JsonReloadListener.java:22) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.lambda$reload$0(ReloadListener.java:12) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) [?:1.8.0_291]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_291]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_291]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1067) [?:1.8.0_291]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1703) [?:1.8.0_291]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:172) [?:1.8.0_291]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 70 column 10 path $.pools[0].entries[7]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[gson-2.8.0.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:476) ~[gson-2.8.0.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:730) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:731) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$35$1.read(TypeAdapters.java:910) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JSONUtils.fromJson(JSONUtils.java:366) ~[?:?]
+	... 10 more
+[29июн2022 21:23:07.908] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe testmod:meteor_shovel
+com.google.gson.JsonSyntaxException: Unknown item 'testmod:meteor_shovel'
+	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:286) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_291]
+	at net.minecraft.item.crafting.ShapedRecipe.deserializeItem(ShapedRecipe.java:285) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.read(ShapedRecipe.java:305) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.read(ShapedRecipe.java:296) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.deserializeRecipe(RecipeManager.java:137) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.apply(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.apply(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.lambda$reload$1(ReloadListener.java:14) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_291]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_291]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_291]
+	at net.minecraft.resources.AsyncReloader.lambda$null$3(AsyncReloader.java:66) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(TickDelayedTask.java:20) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.run(ThreadTaskExecutor.java:140) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.run(RecursiveEventLoop.java:22) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:759) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveOne(ThreadTaskExecutor.java:110) [?:?]
+	at net.minecraft.server.MinecraftServer.driveOneInternal(MinecraftServer.java:742) [?:?]
+	at net.minecraft.server.MinecraftServer.driveOne(MinecraftServer.java:736) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.driveUntil(ThreadTaskExecutor.java:123) [?:?]
+	at net.minecraft.server.MinecraftServer.loadDataPacks(MinecraftServer.java:1583) [?:?]
+	at net.minecraft.server.MinecraftServer.loadDataPacks(MinecraftServer.java:457) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:77) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:99) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:638) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_291]
+[29июн2022 21:23:08.435] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[29июн2022 21:23:16.035] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 825 advancements
+[29июн2022 21:23:18.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29июн2022 21:23:21.154] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 0%
+[29июн2022 21:23:21.154] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 0%
+[29июн2022 21:23:21.155] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 0%
+[29июн2022 21:23:21.155] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 0%
+[29июн2022 21:23:21.156] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 0%
+[29июн2022 21:23:21.787] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 0%
+[29июн2022 21:23:23.424] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 8%
+[29июн2022 21:23:23.424] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 8%
+[29июн2022 21:23:23.424] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 8%
+[29июн2022 21:23:23.425] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 8%
+[29июн2022 21:23:23.930] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 9%
+[29июн2022 21:23:27.032] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:27.032] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:27.032] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:27.033] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:27.033] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:27.034] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:28.880] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:28.880] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:28.882] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:28.931] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:29.418] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 83%
+[29июн2022 21:23:30.065] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 84%
+[29июн2022 21:23:30.625] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 84%
+[29июн2022 21:23:31.228] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 85%
+[29июн2022 21:23:31.977] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 85%
+[29июн2022 21:23:31.977] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 85%
+[29июн2022 21:23:32.709] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 89%
+[29июн2022 21:23:32.943] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 91%
+[29июн2022 21:23:33.526] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 93%
+[29июн2022 21:23:34.352] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 96%
+[29июн2022 21:23:34.424] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 96%
+[29июн2022 21:23:35.224] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Подготовка области возрождения: 99%
+[29июн2022 21:23:35.258] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 16342 ms
+[29июн2022 21:23:37.131] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29июн2022 21:23:37.133] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29июн2022 21:23:37.137] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 2, from 10
+[29июн2022 21:23:37.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[29июн2022 21:23:48.225] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[29июн2022 21:23:49.404] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ca87e2
+[29июн2022 21:23:49.874] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:e02e4db7] logged in with entity id 236 at (6.122253074066724, 4.0, -18.765834509631393)
+[29июн2022 21:23:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev присоединился к игре
+[29июн2022 21:23:54.786] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[29июн2022 21:23:54.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Новый мир 1'/minecraft:overworld
+[29июн2022 21:23:54.835] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 16 advancements
+[29июн2022 21:23:56.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4175ms or 83 ticks behind
+[29июн2022 21:24:09.116] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[29июн2022 21:24:09.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Новый мир 1'/minecraft:overworld
+[29июн2022 21:24:22.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[29июн2022 21:24:24.594] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[29июн2022 21:24:24.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Новый мир 1'/minecraft:overworld
+[29июн2022 21:24:55.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[29июн2022 21:25:35.473] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[29июн2022 21:25:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Новый мир 1'/minecraft:overworld
+[29июн2022 21:25:36.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26074ms or 521 ticks behind
+[29июн2022 21:25:53.043] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 5, from 2
+[29июн2022 21:25:55.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[29июн2022 21:26:20.897] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[29июн2022 21:26:20.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Новый мир 1'/minecraft:overworld
+[29июн2022 21:26:21.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10620ms or 212 ticks behind
+[29июн2022 21:26:22.844] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Отключение
+[29июн2022 21:26:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev покинул игру
+[29июн2022 21:26:22.859] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[29июн2022 21:26:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29июн2022 21:26:22.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29июн2022 21:26:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29июн2022 21:26:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Новый мир 1'/minecraft:overworld
+[29июн2022 21:26:23.047] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Новый мир 1): All chunks are saved
+[29июн2022 21:26:23.100] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Новый мир 1): All chunks are saved
+[29июн2022 21:26:28.006] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Y Y",
+    "YYY",
+    "YYY"
+  ],
+  "key": {
+    "Y": {
+      "item": "testmod:experimental_ingot"
+    }
+  },
+  "result": {
+    "item": "testmod:meteor_chestplate",
+    "count": 1
+  }
+}
